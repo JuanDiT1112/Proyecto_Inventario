@@ -1,0 +1,35 @@
+﻿ID;Nombre;Categoría;Subcategoría
+PRH-TUB-200;Tubería 200 mm;Tubería;Hormigón Simple
+PRH-TUB-300;Tubería 300 mm;Tubería;Hormigón Simple
+PRH-TUB-400;Tubería 400 mm;Tubería;Hormigón Simple
+PRH-TUB-500;Tubería 500 mm;Tubería;Hormigón Simple
+PRH-TUB-600;Tubería 600 mm;Tubería;Hormigón Simple
+PRH-TAP-SIM-300;Tapa de hormigón simple 300 mm;Tapa ;Hormigón Simple
+PRH-TAP-SIM-400;Tapa de hormigón simple 400 mm;Tapa ;Hormigón Simple
+PRH-TAP-SIM-500;Tapa de hormigón simple 500 mm;Tapa ;Hormigón Simple
+PRH-TAP-SIM-600;Tapa de hormigón simple 600 mm;Tapa ;Hormigón Simple
+PRH-TAP-SIM-700;Tapa de hormigón simple 700 mm;Tapa ;Hormigón Simple
+PRH-TAP-MET-300;Tapa de hormigón metalizada 300 mm;Tapa ;Hormigón Metalizado
+PRH-TAP-MET-R-400;Tapa recta de hormigón metalizada 400 mm;Tapa ;Hormigón Metalizado
+PRH-TAP-MET-C-400;Tapa conica de hormigón metalizada 400 mm;Tapa ;Hormigón Metalizado
+PRH-TAP-MET-500;Tapa de hormigón metalizada 500 mm;Tapa ;Hormigón Metalizado
+PRH-TAP-MET-600;Tapa de hormigón metalizada 600 mm;Tapa ;Hormigón Metalizado
+PRH-TAP-MET-R-700;Tapa recta de hormigón metalizada 700 mm;Tapa ;Hormigón Metalizado
+PRH-TAP-MET-C-700;Tapa cónica de hormigón metalizada 700 mm;Tapa ;Hormigón Metalizado
+PRH-LIN-001;Lindero ;Lindero;Recto
+PRH-POS-200-1010;Poste de hormigón 2m de 10x10cm;Poste;2 metros
+PRH-POS-200-1212;Poste de hormigón 2m de 12x12cm;Poste;2 metros
+PRH-POS-250-1010;Poste de hormigón 2.5m de 10x10cm;Poste;2.5 metros
+PRH-POS-250-1212;Poste de hormigón 2.5m de 12x12cm;Poste;2.5 metros
+PRH-BRO-700;Brocal de hormigón;Brocal;Hormigón Metalizado
+PRH-BRO-TAP-C-700;Tapa cónica de brocal 700 mm;Brocal;Hormigón Metalizado
+PRH-POZ-60;Pozo prefabricado 60x60x60 cm + tapa;Pozo;Hormigón
+PRH-POZ-90;Pozo prefabricado 90x90x90 cm + tapa;Pozo;Hormigón 
+PMT-CER-R-400;Cerco recto metálico de 400 mm;Metálico;Cerco
+PMT-CER-C-400;Cerco recto metálico de 400 mm;Metálico;Cerco
+PMT-CER-500;Cerco metálico de 500;Metálico;Cerco
+PMT-CER-600;Cerco metálico de 600;Metálico;Cerco
+PMT-CER-R-700;Cerco recto metálico de 400 mm;Metálico;Cerco
+PMT-CER-C-700;Cerco recto metálico de 400 mm;Metálico;Cerco
+PMT-REJ-4720;Rejilla metálica 40x70 cm de 20 mm;Metálico;Rejilla
+PMT-REJ-4718;Rejilla metálica 40x70 cm de 18 mm;Metálico;Rejilla
